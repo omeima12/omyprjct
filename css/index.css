@@ -101,7 +101,7 @@ body {
   height: 300px;
   justify-content: space-between;
   display: flex;
-  width: 1000vw
+  width: 1000vw;
   flex-direction: column;
 
 }
